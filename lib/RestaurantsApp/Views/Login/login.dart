@@ -40,11 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                 ),
                 onPressed: _isLoading ? null : () => signInWithGoogle(context),
-                child: _isLoading
-                    ? CircularProgressIndicator(
-                  color: Colors.white,
-                )
-                    : Row(
+                child:  Row(
                   children: [
                     Image.asset('assets/google.png', width: 30, height: 30),
                     SizedBox(width: 100),

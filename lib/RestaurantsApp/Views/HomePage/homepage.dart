@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 3,
+      length: 2,
       child: Scaffold(
         appBar: AppBar(
           actions: [
@@ -51,7 +51,6 @@ class _HomePageState extends State<HomePage> {
             tabs: [
               Tab(text: "Breakfast"),
               Tab(text: "Lunch"),
-              Tab(text: "Dinner"),
             ],
           ),
         ),
@@ -108,7 +107,6 @@ class _HomePageState extends State<HomePage> {
         body: TabBarView(
           children: [
             BreakfastScreen(),
-            LunchScreen(),
             LunchScreen(),
           ],
         ),
