@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "712232891207",
+    "project_id": "restaurantapp-5d926",
+    "storage_bucket": "restaurantapp-5d926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712232891207:android:bce74bac0acfcea1d7d262",
+        "android_client_info": {
+          "package_name": "com.example.zartemachinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712232891207-2hkrlr1ni02rmdfr0v7b3pljoggvp5ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartemachinetest",
+            "certificate_hash": "56e221d6de03e903fca412731da006edf8793e61"
+          }
+        },
+        {
+          "client_id": "712232891207-mtml72n1jv4gc2q44i9827dsr2uhmmli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEIbnp04U2F3r6-q0EqhNCrruvgPukSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712232891207-mtml72n1jv4gc2q44i9827dsr2uhmmli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712232891207-pnn2s05ftktadnfgjam2ubq9es6dfpqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zartemachinetest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

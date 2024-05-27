@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>712232891207-pnn2s05ftktadnfgjam2ubq9es6dfpqg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.712232891207-pnn2s05ftktadnfgjam2ubq9es6dfpqg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>712232891207-2hkrlr1ni02rmdfr0v7b3pljoggvp5ho.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChWu18VKEHskvOu2YxXjFt5hAFaWmdeBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>712232891207</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zartemachinetest</string>
+	<key>PROJECT_ID</key>
+	<string>restaurantapp-5d926</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurantapp-5d926.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:712232891207:ios:14a37f8e6a5d7e02d7d262</string>
+</dict>
+</plist>
